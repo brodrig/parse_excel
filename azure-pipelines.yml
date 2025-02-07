@@ -1,3 +1,4 @@
-  task: ServiceNow-DevOps-Server-Change-Acceleration@1
-  inputs:
-    connectedServiceName: "" # ServiceNow DevOps Change Velocity Service Connection
+---
+task: ServiceNow-DevOps-Server-Change-Acceleration@1
+inputs:
+  connectedServiceName: "" # ServiceNow DevOps Change Velocity Service Connection
