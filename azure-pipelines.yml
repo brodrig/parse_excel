@@ -1,4 +1,6 @@
 ---
 task: ServiceNow-DevOps-Server-Change-Acceleration@1
 inputs:
-  connectedServiceName: "" # ServiceNow DevOps Change Velocity Service Connection
+  connectedServiceName: "" # ServiceNow DevOps Change Velocity Service Co- task: ServiceNow-DevOps-Server-Change-Acceleration@1
+  inputs:
+    connectedServiceName: 'dev288560-Git Hub to ADO to NOW-ServiceNow DevOps Service Connection'
